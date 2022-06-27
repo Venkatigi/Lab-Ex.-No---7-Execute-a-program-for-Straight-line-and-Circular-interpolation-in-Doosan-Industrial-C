@@ -38,13 +38,13 @@ Linear Interpolation
 Circular Interpolation
 
 ## PROGRAM
-![OUTPUT](./Entry.PNG)
+![OUTPUT](Entry.png)
 
-![OUTPUT](./Status.PNG)
+![OUTPUT](Status.png)
 
-![OUTPUT](./Jog.PNG)
+![OUTPUT](Jog.png)
 
-![OUTPUT](./Load%20worklist.PNG)
+![OUTPUT](Load%20worklist.png)
 
 ![OUTPUT](Program.PNG)
 
