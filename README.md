@@ -46,13 +46,13 @@ Circular Interpolation
 
 ![OUTPUT](Load%20worklist.png)
 
-![OUTPUT](Program.PNG)
+![OUTPUT](Program.png)
 
 ### Linear Interpolation
-![OUTPUT](./Final%20Program%20Linear.PNG)
+![OUTPUT](Final%20Program%20Linear.png)
 
 ### Circular Interpolation
-![OUTPUT](./Final%20Program%20Linear.PNG)
+![OUTPUT](Final%20Program%20Linear.png)
 
 ## OUTPUT
 ### Linear Interpolation
